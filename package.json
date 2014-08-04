@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/stelee/leesoft/issues"
   },
-  "homepage": "https://github.com/stelee/leesoft"
+  "homepage": "https://github.com/stelee/leesoft",
+  "dependencies": {}
 }
